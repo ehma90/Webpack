@@ -2,7 +2,7 @@
 
 Frontend environment for building JavaScript applications
 
-###Features
+### Features
 
 - Babel Loader
 - Sass Loader With Dart Sass
